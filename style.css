@@ -1332,5 +1332,12 @@ height: fit-content;
         z-index: 999999 !important;
         pointer-events: none;
     }
+    .mousefollower{
+        border: 2px solid #fff;
+        background-color: white;
+        scale:2;
+        mix-blend-mode: difference;
+        display: none;
+    }    
     
 }
